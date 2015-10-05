@@ -41,7 +41,7 @@ customize two pieces of the build:
   library file
 
 You can customize these by setting these environment variables and invoking
-`make -e`.
+`make`.
 
 There's a full example of this in the [mdb_v8
 project](https://github.com/joyent/mdb_v8).
